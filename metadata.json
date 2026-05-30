@@ -1,0 +1,6 @@
+{
+  "name": "Mariah Maico Portfolio",
+  "description": "Portfolio website of Mariah Moet Lopez Maico, an AI Automation Specialist specializing in OpenAI, Zapier, Make.com, and n8n workflow automations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
